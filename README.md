@@ -1,1 +1,1 @@
-# the-news
+# news-app
